@@ -1,0 +1,2 @@
+(this["webpackJsonpservice-catalog"]=this["webpackJsonpservice-catalog"]||[]).push([[0],{9:function(e,t,c){"use strict";c.r(t);var r=c(0),n=(c(2),c(3));var s=function(){return Object(r.jsx)("div",{children:Object(r.jsx)("p",{children:"Service Catalog"})})};c.n(n).a.render(Object(r.jsx)(r.Fragment,{children:Object(r.jsx)(s,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.a3acfca1.chunk.js.map
